@@ -80,6 +80,6 @@ public class Main {
         System.out.println("Всего работников в компании - "+worker+" человек.");
         worker = worker + 94;
         hourTotal = worker * hourDay;
-        System.out.println("Если в компании работает "+worker+" человек, то всего "+hourTotal+" часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает "+worker+" человек, то всего "+hourTotal+" часов работы может быть поделено между сотрудниками.");
     }
 }
